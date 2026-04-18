@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Austin, Texas, US
 
-> Free BeamStation sample export with 7 rows and masked direct-contact fields.
+> Free BeamStation sample export with 6 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `537795` |
 | Location | Austin |
 | Category | Restaurants |
-| Full dataset size | 78 records |
-| Free sample size | 7 records (8.97%) |
-| Last export | 2026-04-08T00:17:36.368410+00:00 |
+| Full dataset size | 65 records |
+| Free sample size | 6 records (9.23%) |
+| Last export | 2026-04-15T05:58:34.645343+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-austin-texas-us-sample-537795/releases/download/sample-latest/beamstation_537795_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
