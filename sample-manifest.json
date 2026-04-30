@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f7ffbffc-3b1b-4cd6-80f1-d2c8685ddf7f",
+  "export_job_id": "3c638e4f-ad37-435c-a8a7-19f6c9241641",
   "id_short": 537795,
-  "published_at": "2026-04-22T19:52:47Z",
+  "published_at": "2026-04-30T07:35:10Z",
   "repo_name": "the-hhi-monopoly-index-for-austin-texas-us-sample-537795",
   "sample_asset_name": "beamstation_537795_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/537795/beamstation_537795_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 5,
-  "sample_sha256": "9e08d06b4fbb035b8d8030fefaf8ac9c964fe92ccc29740505c274f1dc135279",
-  "sample_size_bytes": 34292,
-  "total_records": 56
+  "sample_records": 6,
+  "sample_sha256": "fcdd2619f39696c28a8cd34077b4d13669c20b7559704fe6567af6401d09cb14",
+  "sample_size_bytes": 38319,
+  "total_records": 68
 }
